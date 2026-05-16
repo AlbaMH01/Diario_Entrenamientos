@@ -66,7 +66,7 @@ Gráficos estáticos con *ggplot2*.
 
 ### BBDD
 
-![Tablas y relaciones de la BBDD en Supabase](BBDD.png){#fig:BBDD}
+![Tablas y relaciones de la BBDD en Supabase](BBDD.png)
 
 ## 📚 Descripción de los datos utilizados y su orgien
 
