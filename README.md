@@ -66,7 +66,7 @@ Gráficos estáticos con *ggplot2*.
 
 ### BBDD
 
-![Relación entre la magnitud del splash y la nota de ejecución](scatterplot_splash_vs_score.png){#fig-scatter}
+![Tablas y relaciones de la BBDD en Supabase](BBDD.png){#fig:BBDD}
 
 ## 📚 Descripción de los datos utilizados y su orgien
 
